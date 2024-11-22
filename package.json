@@ -1,0 +1,19 @@
+{
+    "name": "@nabeelrao1702/string-utils",
+    "version": "1.0.0",
+    "description": "A collection of string utility functions",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "string",
+        "utilities",
+        "formatting"
+    ],
+    "author": "Nabeel Ahmad <nabeelrao1702>",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
